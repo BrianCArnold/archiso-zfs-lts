@@ -45,8 +45,8 @@ iwd
 jfsutils
 kitty-terminfo
 lftp
-linux
-linux-headers
+linux-lts
+linux-lts-headers
 linux-atm
 linux-firmware
 livecd-sounds
